@@ -1,4 +1,6 @@
 {
+  "name": "fg-myapp",
+  "version": "1.0.0",
   "dependencies": {
     "html-webpack-plugin": "^2.30.1",
     "path": "^0.12.7",
