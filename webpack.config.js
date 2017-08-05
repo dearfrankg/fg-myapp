@@ -21,6 +21,7 @@ module.exports = {
   },
   plugins: [HtmlWebpackPluginConfig],
   devServer: {
+    disableHostCheck: true,
     stats: "errors-only"
   }
 };
